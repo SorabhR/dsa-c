@@ -1,2 +1,4 @@
 1. If you create array in a function dont return it as that will be gone on return
 2. If you allocate heap memory and return pointer to it use it and then free the memory post consumption.
+3. Two pointer apprach is usefeul to traverse from both ends and also remember ends of a substring.
+4. SUppose you want to find last n elements of linked list two pointer is useful because reverse travrse is not possible.
